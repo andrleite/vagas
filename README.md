@@ -18,5 +18,5 @@ https://exame.abril.com.br/negocios/nova-sede-da-totvs-em-sao-paulo-tem-ate-esco
 
 ## Vagas
 
-* [Engenheiro(a) de software](/engenheiro-de-software)
-* [SRE](/sre)
+* [Engenheiro(a) de software](engenheiro-de-software)
+* [SRE](sre)
