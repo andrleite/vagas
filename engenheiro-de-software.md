@@ -32,7 +32,7 @@ Se você tem tecnologia + conhecimento no DNA, venha fazer parte do nosso time, 
   - Experiência em desenvolvimento de controllers e oporators para Kubernetes;
   - Experiência em SQL, em particular no PostgreSQL;
   - Experiência com frameworks Javascript como Angular 4, React e/ou Vue;
-  - Experiência em mentoring/coaching de pares e team members menos expeientes.
+  - Experiência em mentoring/coaching de pares e team members menos experientes.
 
 ### Contato
 Ficou interessado? Faça um pull request nesse repositório com seus dados ou envie um e-mail com seu CV para rafael.roizman@totvs.com.br

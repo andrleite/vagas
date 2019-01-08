@@ -44,7 +44,7 @@ Sustentação/operação do runtime dos clusters.
   - Conhecimento em ferramentas de DevOps (Vault, Consul, Packer, entre outras);
   - Segurança de infraestrutura e aplicações;
   - Sistemas distribuídos e Microsserviços;
-  - Experiência em mentoring/coaching de pares e team members menos expeientes.
+  - Experiência em mentoring/coaching de pares e team members menos experientes.
 
 ### Contato
 Ficou interessado? Faça um pull request nesse repositório com seus dados ou envie um e-mail com seu CV para rafael.roizman@totvs.com.br
