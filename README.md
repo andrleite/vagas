@@ -20,3 +20,11 @@ https://exame.abril.com.br/negocios/nova-sede-da-totvs-em-sao-paulo-tem-ate-esco
 
 * [Engenheiro(a) de software](https://github.com/cloud104/were-hiring/blob/master/engenheiro-de-software.md)
 * [SRE](https://github.com/cloud104/were-hiring/blob/master/sre.md)
+
+## Como aplicar?
+
+* Clone o repositório e abra um pull request com os seguintes padrões:
+    * Branch hire-me/<github_user>
+    * Crie um arquivo `<github_user>.md` na raiz do repositório com sua informações e por que se qualifica com a vaga. Você pode colocar links como linkedin e site pessoal se preferir.
+    * Commit message: <github_user>
+

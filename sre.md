@@ -1,4 +1,4 @@
-# SRE (Site Site Reliability Engineer)
+# SRE (Site Reliability Engineer)
 Esta posição é integrar como SRE o time de Cloud da TOTVS. 
 Nossa missão é oferecer uma plataforma como serviço (PaaS) para provisionamento automatizado, gerenciamento e auto-serviço para nossos clientes internos e externos utilizando tecnologias como Kubernetes e ferramentas relacionadas. É parte do nosso dia a dia repensar a maneira que as soluções TOTVS são executadas na nuvem, com o objetivo de entregar resiliência, escalabilidade e baixo custo em um cenário multi cloud. Hoje isso já é realidade para algumas soluções e temos a pretensão de absorver um número maior de soluções ao longo do tempo.
 Hoje temos cases de sucesso em produção e estamos começando outros projetos mais desafiadores, com objetivo de levar este modelo para cada vez mais clientes. Somos um time multi disciplinar, desenvolvemos e suportamos todas as ferramentas para que solução final funcione.
